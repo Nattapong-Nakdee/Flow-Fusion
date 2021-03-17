@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- Design by Free CSS Templates http://www.freecsstemplates.org Released for free under a Creative Commons Attribution 2.5 License Name : Collaboration Description: A two-column, fixed-width design suitable for small websites and blogs. Version : 1.0 Released : 20080102 -->
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>FLOW FUSION</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style1.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+
+
+<body>
+<div id="menu">
+<ul>
+<li><a href="index.html"> HOME</a></li>
+<li class="current_page_item"><a href="About us.html">ABOUT</a></li>
+<li><a href="Product.html">OUR PRODUCT</a></li>
+<li><a href="Service.html">OUR SERVICE</a></li>
+<li><a href="Authorized bran.html">Authorized bran</a></li>
+<li><a href="Contact.html">CONTACT US</a></li>
+</ul>
+</div>
+<div id="logo">
+<h1><a href="#"><font color="#01589D">FLOW&nbsp;&nbsp;FUSION&nbsp; co., ltd.</font></a></h1>
+<h2>All&nbsp; reliable&nbsp; valves&nbsp; can&nbsp; be&nbsp; supplied</h2>
+</div>
+</div>
+<div id="splash"><img src="images/Index H.jpg" alt="" width="960" height="300" /></div>
+<hr />
+<div id="page">
+<div id="sidebar">
+<a name="ABOUT">
+<h2><fon size="22"><a href="#">ABOUT &nbsp; US</a></font></h2>
+<div id="sidebar">
+<p> &nbsp;&nbsp; Flow Fusion Co., Ltd. is mainly focused distributor and trading
+  of general valves, actuator &amp; accessories, and safety equipment.  Our focus area is primarily in petrochemical, oil &amp; gas, chemical,  food &amp; beverage, power, industrial gas, pulp &amp; paper, cement, 
+  and waste water. We supply various types of valves and 
+  accessories to Thailand industries and oversea countries. 
+  We are providing of assortment of valve industrial products and 
+  outstanding choose appropriate to each customer application.</p>
+<p> &nbsp;&nbsp; Our valves are obtained by ISO9001 quality system certificate, 
+  and are qualified with the CE, API standard, EX, EAC, TUV, ATEX,
+  ASME, TS, and ISO14001.
+  With experience in the industry valves, our company supplies 
+  the best solution. The company assures that the Industrial 
+  products it supplies reach the customers high quality products 
+  and fast delivery time. &nbsp;&nbsp;</p>
+  <center><img src="images/2.png" width="75%">
+</div>
+</body></html>

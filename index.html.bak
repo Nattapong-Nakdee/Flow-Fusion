@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- Design by Free CSS Templates http://www.freecsstemplates.org Released for free under a Creative Commons Attribution 2.5 License Name : Collaboration Description: A two-column, fixed-width design suitable for small websites and blogs. Version : 1.0 Released : 20080102 -->
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>FLOW FUSION </title>
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+
+
+<body>
+<div id="menu">
+<ul>
+<li><a href="index.html"> HOME</a></li>
+<li class="current_page_item"><a href="#ABOUT">ABOUT</a></li>
+<li><a href="Product.html">OUR PRODUCT</a></li>
+<li><a href="Service.html">OUR SERVICE</a></li>
+<li><a href="Authorized bran.html">Authorized bran</a></li>
+<li><a href="#Contact">CONTACT US</a></li>
+</ul>
+</div>
+<div id="logo">
+<h1><a href="#"><font color="#01589D">FLOW&nbsp;&nbsp;FUSION &nbsp;Co., LTD.</font></a></h1>
+<h2>All&nbsp; reliable&nbsp; valves&nbsp; can&nbsp; be&nbsp; supplied</h2>
+</div>
+<div id="splash"><img src="images/Index H.jpg" alt="" width="960" height="300" /></div>
+<hr />
+<div id="page">
+<div id="content">
+<div class="post">
+<a name="ABOUT">
+<h2 class="title"><a href="#">ABOUT &nbsp; US</a></h2>
+<div class="entry">
+<p> &nbsp;&nbsp; Flow Fusion Co., Ltd. is mainly focused distributor and trading
+  of general valves, actuator &amp; accessories, and safety equipment.  Our focus area is primarily in petrochemical, oil &amp; gas, chemical,  food &amp; beverage, power, industrial gas, pulp &amp; paper, cement, 
+  and waste water. We supply various types of valves and 
+  accessories to Thailand industries and oversea countries. 
+  We are providing of assortment of valve industrial products and 
+  outstanding choose appropriate to each customer application.</p>
+<p> &nbsp;&nbsp; Our valves are obtained by ISO9001 quality system certificate, 
+  and are qualified with the CE, API standard, EX, EAC, TUV, ATEX,
+  ASME, TS, and ISO14001.
+  With experience in the industry valves, our company supplies 
+  the best solution. The company assures that the Industrial 
+  products it supplies reach the customers high quality products 
+  and fast delivery time. &nbsp;&nbsp;<a href="About us.html">Read more about us</a></p>
+</div>
+<p class="meta">&nbsp;</p>
+</div>
+<div class="post">
+<a name="Contact">
+<h2 class="title"><a href="#">Contact &nbsp; us</a></h2>
+<div class="entry">
+  <p>FLOW FUSION CO.,LTD.		<br />
+    98/65  Moo  5 Soi Wat Lat Pladuk<br />
+    Bangkurat, Bangbuatong  Nonthaburi 11110</p>
+  <p>E-mail : InfoFFS@flow-fusion.com<br />
+    Tel : 080-090-7585<br />
+    Tel : 094-705-1709<br />
+    www.flow-fusion.com</p>
+  <p><center><h3>MAP</h3></center>
+  <p><center><img src="images/Map.jpg" alt="" width="331" height="269" /></center></p>
+</div>
+<p class="meta">&nbsp;</p>
+</div>
+</div>
+<!-- end #content -->
+<div id="sidebar">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form id="searchform" method="get" action="">
+<div> <input name="s" id="s" size="15" type="text" /> <br />
+<input name="submit" value="Search" type="submit" />
+</div>
+</form>
+</li>
+<li>
+  <h2>Our PRODUCTS</h2>
+  <ul>
+    <li><a href="Product.html">Manual valves</a></li>
+    <li><a href="Product.html">Actuator &amp; Accessories</a></li>
+    <li><a href="Product.html">Piping &amp; Equipment</a></li>
+    <li><a href="Product.html">Safety valves</a></li>
+    <li><a href="Product.html">Tank Equipment</a></li>
+    <li><a href="Product.html">Overhual &amp; Callibrate</a></li>
+    <li><a href="Product.html">Product Range</a></li>
+  </ul>
+</li>
+</ul>
+</div>
+<!-- end #sidebar --></div>
+<!-- end #page -->
+<div id="footer">
+<p>Website Name. www.flow-fusion.com<a href="http://www.freecsstemplates.org/"></a>.</p>
+</div>
+<div style="font-size: 0.8em; text-align: center; margin-top: 1em; margin-bottom: 1em;"></div>
+</body></html>
